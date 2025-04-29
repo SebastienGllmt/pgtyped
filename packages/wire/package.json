@@ -2,6 +2,7 @@
   "name": "@pgtyped/wire",
   "version": "2.4.2",
   "type": "module",
+  "private": true,
   "exports": {
     ".": {
       "import": "./lib/index.js",
